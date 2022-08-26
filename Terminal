@@ -1,0 +1,7 @@
+To open up the webpage
+
+Open terminal 
+make sure the terminal has your application open
+use cd "app" and in the quote fill in the directory file you save your file under
+run the command "streamlit run app.py" 
+app.py should match your file you save the code under
